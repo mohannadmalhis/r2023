@@ -4,7 +4,7 @@ String x="";
 
 String ttttt="";
 
-int xx="";
+int xx=5;
 
 
 String uuuu="";
