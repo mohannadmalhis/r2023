@@ -4,6 +4,8 @@ String x="";
 
 String ttttt="";
 
-String xx="";
+int xx="";
 
+
+String uuuu="";
 }
